@@ -27,6 +27,7 @@ function lampBroken() {
     lamp.src = './img/lampada_quebrada.png'
     alert (' **CRASH!!!')
     alert ('Você quebrou a lampada!')
+    alert ('Pressione F5 para restaurar a lampada!')
 
 }
 
